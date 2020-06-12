@@ -1,0 +1,7 @@
+,row_id,dialog_ID,speaker,utterance,bias_rating,abusive_language_rating,dialog_complexity_rating,privacy_rating,abusive_language_discrete,dialog_complexity_discrete,bias_rating_discrete
+0,0,1,person1@email.com,Hi,0.0,0.0,0.11231518800000001,0.0,L,L,L
+1,1,1,person2@email.com,"Hello, Laura.",0.0,0.0,0.11231518800000001,0.0,L,L,L
+2,2,1,person1@email.com,How do I set up my IBM Notes,0.0,0.0,0.11231518800000001,0.0,L,L,L
+3,3,1,person2@email.com,"To get started with Notes, you can get tips from this wiki.",0.0,0.0,0.11231518800000001,0.0,L,L,L
+4,4,2,person1@email.com,how to I set up IBM notes social edition client configuration?,0.0,0.0,0.221285435,0.0,L,L,L
+5,5,2,person2@email.com,"To get started with Notes, you can get tips from this wiki.",0.0,0.0,0.221285435,0.0,L,L,L

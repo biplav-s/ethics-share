@@ -1,0 +1,8 @@
+,dialog_ID,speaker,turn_ID,utterance,
+0,1,machine,1,"Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?",
+1,1,user,1,i cheap restaurant in the north part of town,
+2,1,machine,2,royal spice is a nice restaurant in the north of town in the cheap price range,
+3,1,user,2,is there anything else,
+4,1,machine,3,You are looking for a restaurant is that right?,
+5,1,user,3,anything else,
+

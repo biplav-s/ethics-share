@@ -1,0 +1,97 @@
+[
+	{
+		"name": "genderTest",
+		"triggers": [
+			"He",
+			"She",
+			"OTHER"
+		],
+		"values": [
+			"He",
+			"She",
+			"OTHER"
+		],
+		"dataspec": {
+			"unbias": [
+				{
+					"data": [
+						{
+							"name": "He",
+							"frac": 0.5
+						},
+						{
+							"name": "She",
+							"frac": 0.5
+						},
+						{
+							"name": "OTHER",
+							"frac": 0.0
+						}
+					]
+				}
+			],
+			"bias": [
+				{
+					"data": [
+						{
+							"name": "He",
+							"frac": 0.1
+						},
+						{
+							"name": "She",
+							"frac": 0.9
+						},
+						{
+							"name": "OTHER",
+							"frac": 0.0
+						}
+					]
+				},
+				{
+					"data": [
+						{
+							"name": "He",
+							"frac": 0.9
+						},
+						{
+							"name": "She",
+							"frac": 0.1
+						},
+						{
+							"name": "OTHER",
+							"frac": 0.0
+						}
+					]
+				}
+			]
+		}
+	},
+	{
+		"name": "religiousTest",
+		"triggers": [
+			"Church",
+			"Temple",
+			"Mosque",
+			"Synagogue"
+		],
+		"values": [
+			"Church",
+			"Temple",
+			"Mosque",
+			"Synagogue"
+		]
+	},
+	{
+		"name": "racialTest",
+		"triggers": [
+			"White",
+			"Black"
+		],
+		"values": [
+			"White",
+			"Black",
+			"Brown",
+			"Yellow"
+		]
+	}
+]

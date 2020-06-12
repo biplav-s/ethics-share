@@ -1,0 +1,7 @@
+,row,dialog_ID,speaker,turn_ID,utterance,complexity,dialog_complexity
+0,0,1,person1@email.com,1,Hi,0,0.112315188
+1,1,1,person2@email.com,1,"Hello, Laura.",0,0.112315188
+2,2,1,person1@email.com,2,How do I set up my IBM Notes,0.125,0.112315188
+3,3,1,person2@email.com,2,"To get started with Notes, you can get tips from this wiki.",0.333333333,0.112315188
+4,4,2,person1@email.com,1,how to I set up IBM notes social edition client configuration?,0.181818182,0.221285435
+5,5,2,person2@email.com,1,"To get started with Notes, you can get tips from this wiki.",0.333333333,0.221285435

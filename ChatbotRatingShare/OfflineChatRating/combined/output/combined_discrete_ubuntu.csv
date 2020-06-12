@@ -1,0 +1,7 @@
+,row_id,dialog_ID,speaker,utterance,bias_rating,abusive_language_rating,dialog_complexity_rating,privacy_rating,abusive_language_discrete,dialog_complexity_discrete,bias_rating_discrete
+0,0,1,M,"im connected via terminal ssh atm, i want to winscp into it tho is the sftp server running by default or how do i check it? never mind im in",0.0,0.0,0.27139195,0,L,L,L
+1,1,1,T,"[[Mew2]]: please try not to take this personal: you really should not consider running a hosting business with your current level of technical expertise, yet.",0.053604316,0.0,0.27139195,0,L,L,L
+2,2,1,M,tomreyn: wow tomreyn do i even know you? stalking me much?,0.016331853,0.0,0.27139195,0,L,L,L
+3,3,1,T,"actualyl that's off-topic here, sorry. feel free to PM if you'd like to discuss it more.",0.26478224300000003,0.0,0.27139195,0,L,L,L
+4,4,1,M,i think this is first time i ever seen you,0.112793121,0.0,0.27139195,0,L,L,L
+5,5,1,T,"see my private message, thanks.",0.0,0.0,0.27139195,0,L,L,L
