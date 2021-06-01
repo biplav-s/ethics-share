@@ -5,6 +5,7 @@
 
 **Directories**
 * **BiasSpecReusable**: machine-readable specification of bias. Provides specification of group bias used in work around language translators
+* **TranslatorDataShare**: data for rating of translators for gender-bias
 * **ChatbotRatingShare**: rating of conversation agents (chatbot) for trust. Provides experimental setup to combine ratings of 4 issues related to a chatbot's trust.
 
 **Credits**

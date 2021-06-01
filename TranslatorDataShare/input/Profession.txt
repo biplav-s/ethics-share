@@ -1,0 +1,118 @@
+Accountant - a person that works with the money and accounts of a company.
+
+Actor /Actress - a person that acts in a play or a movie
+
+Architect - a person that designs building and houses.
+
+Astronomer - a person who studies the stars and the universe
+
+Author - They write books or novels.
+
+Baker - They make bread and cakes and normally work in a bakery.
+
+Bricklayer - a person that helps to build houses using bricks.
+
+Bus driver - a person that drives buses.
+
+Butcher - a person that works with meat. They cut the meat and sell it in their shop.
+
+Carpenter - a person that makes things from wood including houses and furniture.
+
+Chef/Cook - a person that prepared food for others, often in a restaurant or café.
+
+Cleaner - a person that cleans/tidies an area or place (such as in an office)
+
+Dentist - a person that can fix problems you have with your teeth.
+
+Designer - a person who has the job of designing things.
+
+Doctor - a person you go to see when you are ill or have some type of health problem.
+
+Dustman/Refuse collector - a person that collects trash/rubbish from bins in the street.
+
+Electrician - a person that works with electric circuits.
+
+Engineer - a person who develops solutions to technical problems. They sometimes design, build, or maintain engines, machines, structures or public works.
+
+Factory worker - a person that works in a factory.
+
+Farmer - a person that works on a farm, usually with animals.
+
+Fireman/Fire fighter - a person that puts out fires.
+
+Fisherman - a person that catches fish
+
+Florist - a person that works with flowers.
+
+Gardener - a person that keeps gardens clean and tidy. They take care of the plants in the garden.
+
+Hairdresser - they cut your hair or give it a new style.
+
+Journalist - a person that makes new reports in writing or through television.
+
+Judge - a qualified person that decides cases in a law court.
+
+Lawyer - a person that defends people in court and gives legal advice.
+
+Lecturer - a person that gives lectures, usually in a university.
+
+Librarian - a person that works in a library.
+
+Lifeguard - a person that saves lives where people swim (at a beach or swimming pool).
+
+Mechanic - a person that repairs machines, especially car motors.
+
+
+Model - a (usually attractive) person that works in fashion, modeling clothes and accessories.
+
+Newsreader - a person that reads the news, normally on television.
+
+Nurse - a person trained to help a doctor look after the sick or injured.
+
+Optician - a person that checks your eyes and try and correct any problems with your sight.
+
+Painter - a person that paints pictures or the interior and exterior of buildings.
+
+Pharmacist - a qualified person that works with and dispenses medicine.
+
+Photographer - a person that takes photos.
+
+Pilot - a person who flies a plane.
+
+Plumber - a person that repairs your water systems or pipes.
+
+Politician - a person who works in politics.
+
+Policeman/Policewoman - a member of the police force. They (try and) prevent crime.
+
+Postman - a person that delivers mail to your house.
+
+Real estate agent - a person that makes money from selling land for development.
+
+Receptionist - a person that is at the reception (entrance) of a company.
+
+Scientist - a person that works in the science industry. They do many experiments.
+
+Secretary - a person employed in an office who types letters, keeps records etc.
+
+Shop assistant - a person that works in a shop or store selling products.
+
+Soldier - a person who works for the army.
+
+Tailor - a person that makes clothes for others, many times producing exclusive items of clothing.
+
+Taxi driver - a person who drives a taxi.
+
+Teacher - a person that passes knowledge to students, usually at school.
+
+Translator - a person that translates from one language to another.
+
+Traffic warden - a person that patrols areas to check that people do not park in the wrong place.
+
+Travel agent - a person that organises and sells holidays and flights for others.
+
+Veterinary doctor (Vet) - a qualified person that looks after sick animals.
+
+Waiter/Waitress - a person that works in a food outlet, looking after customers and serving food.
+
+Window cleaner - a person that cleans windows, normally the windows of big buildings.

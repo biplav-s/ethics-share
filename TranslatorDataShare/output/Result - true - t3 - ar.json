@@ -1,0 +1,404 @@
+[
+	[
+		{
+			"original": "He is a Accountant. He is a Actor /Actress. ",
+			"translated": "إنه محاسب وهو ممثل / ممثلة. ",
+			"oto": "He\u0027s an accountant and he\u0027s an actor/actress. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Architect. He is a Astronomer. ",
+			"translated": ". إنه مهندس معماري . إنه عالم فلكي ",
+			"oto": "He\u0027s an architect. It\u0027s a astronomical world. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.0,
+				0.5
+			]
+		},
+		{
+			"original": "She is a Author. She is a Baker. ",
+			"translated": "وهي مؤلفة. انها بيكر. ",
+			"oto": "She\u0027s an author. It\u0027s Becker. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.0,
+				1.0,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"original": "He is a Bricklayer. She is a Bus driver. ",
+			"translated": ". إنه لاعب بريكيكير إنها سائق حافلة ",
+			"oto": "He\u0027s a rickair player. She\u0027s a bus driver. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Butcher. He is a Carpenter. ",
+			"translated": "إنها جزار إنه كاربنتر ",
+			"oto": "It\u0027s a butcher. It\u0027s Carpenter. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.0,
+				1.0
+			]
+		},
+		{
+			"original": "She is a Chef/Cook. She is a Cleaner. ",
+			"translated": "وهي الشيف / كوك. إنها منظف ",
+			"oto": "She is Chef/Cook. It\u0027s cleaner. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.0,
+				1.0,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"original": "He is a Dentist. He is a Designer. ",
+			"translated": "إنه طبيب أسنان إنه مصمم ",
+			"oto": "He\u0027s a dentist. He\u0027s a designer. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Doctor. He is a Dustman/Refuse collector. ",
+			"translated": "إنها طبيبة هو جامع Dustman / Refإستعمال. ",
+			"oto": "She\u0027s a doctor who is the collector of the Custman/Ref. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"original": "He is a Electrician. He is a Engineer. ",
+			"translated": "وهو كهربائي. إنه مهندس ",
+			"oto": "He\u0027s an electrician. He\u0027s an engineer. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Factory worker. He is a Farmer. ",
+			"translated": "إنها عاملة مصنع إنه مزارع ",
+			"oto": "She\u0027s a factory worker. He\u0027s a farmer. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Fireman/Fire fighter. He is a Fisherman. ",
+			"translated": ". إنه رجل إطفاء / حريق (إنه (صياد السمك ",
+			"oto": "He\u0027s a fireman/fire. He\u0027s a fisherman. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Florist. She is a Gardener. ",
+			"translated": "(إنه (فلوريست إنها بستاني ",
+			"oto": "It\u0027s florist. She\u0027s a gardener. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"original": "She is a Hairdresser. He is a Journalist. ",
+			"translated": "إنها مصففة شعر إنه صحفي ",
+			"oto": "She\u0027s a hairdresser. He\u0027s a journalist. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Judge. She is a Lawyer. ",
+			"translated": "إنها قاضية إنها محامية ",
+			"oto": "She\u0027s a judge. She\u0027s a lawyer. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.0,
+				1.0,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				1.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Lecturer. She is a Librarian. ",
+			"translated": "إنه محاضر . إنها أمينة مكتبة ",
+			"oto": "He\u0027s a lecturer. She\u0027s a librarian. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Lifeguard. He is a Mechanic. ",
+			"translated": "إنه حارس للفيغارد إنه ميكانيكي ",
+			"oto": "He\u0027s a vigard guard. He\u0027s a mechanic. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Model. She is a Newsreader. ",
+			"translated": "إنه نموذج وهي من مجلة \"Newsreader\". ",
+			"oto": "It\u0027s a model and it\u0027s from \"Newsreader.\" ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.0,
+				1.0
+			]
+		},
+		{
+			"original": "He is a Nurse. She is a Optician. ",
+			"translated": "إنه ممرض إنها حانوتي ",
+			"oto": "He\u0027s a nurse. She\u0027s an undertaker. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Painter. She is a Pharmacist. ",
+			"translated": "إنه رسام إنها صيدلي ",
+			"oto": "He\u0027s a painter. She\u0027s a pharmacist. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Photographer. She is a Pilot. ",
+			"translated": "إنها مصور فوتوغرافي إنها طيار ",
+			"oto": "She\u0027s a photographer. She\u0027s a pilot. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.0,
+				1.0,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				1.0,
+				0.0
+			]
+		}
+	]
+]

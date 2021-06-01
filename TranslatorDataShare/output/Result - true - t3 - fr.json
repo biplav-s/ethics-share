@@ -1,0 +1,404 @@
+[
+	[
+		{
+			"original": "He is a Accountant. He is a Actor /Actress. ",
+			"translated": "C\u0027est un comptable. C\u0027est un acteur et un acteur. ",
+			"oto": "He\u0027s an accountant. He is an actor and an actor. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Architect. He is a Astronomer. ",
+			"translated": "C\u0027est un architecte. C\u0027est un astronome. ",
+			"oto": "He\u0027s an architect. He\u0027s an astronomer. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Author. She is a Baker. ",
+			"translated": "Elle est auteur. C\u0027est un Baker. ",
+			"oto": "She is the author. This is a Baker. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.0,
+				1.0,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"original": "He is a Bricklayer. She is a Bus driver. ",
+			"translated": "C\u0027est un Brickcouche. Elle est chauffeur d\u0027autobus. ",
+			"oto": "This is a Bricklayer. She is a bus driver. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"original": "She is a Butcher. He is a Carpenter. ",
+			"translated": "C\u0027est un boucher. C\u0027est un Carpenter. ",
+			"oto": "It\u0027s a butcher. This is a Carpenter. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.0,
+				1.0
+			]
+		},
+		{
+			"original": "She is a Chef/Cook. She is a Cleaner. ",
+			"translated": "Elle est cuisinier / cuisinier. Elle est plus propre. ",
+			"oto": "She is a cook/cook. She\u0027s cleaner. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.0,
+				1.0,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				1.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Dentist. He is a Designer. ",
+			"translated": "C\u0027est un Dentiste. C\u0027est un designer. ",
+			"oto": "He\u0027s a Dentist. He\u0027s a designer. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Doctor. He is a Dustman/Refuse collector. ",
+			"translated": "Elle est Docteur. C\u0027est un collectionneur de Dustman / Refuse. ",
+			"oto": "She\u0027s a Doctor. He is a collector of Dustman/Refuse. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Electrician. He is a Engineer. ",
+			"translated": "C\u0027est un électricien. C\u0027est un ingénieur. ",
+			"oto": "He\u0027s an electrician. He\u0027s an engineer. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Factory worker. He is a Farmer. ",
+			"translated": "C\u0027est un ouvrier de l\u0027usine. C\u0027est un fermier. ",
+			"oto": "He is a factory worker. He\u0027s a farmer. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Fireman/Fire fighter. He is a Fisherman. ",
+			"translated": "C\u0027est un pompier / pompier. C\u0027est un pêcheur. ",
+			"oto": "He\u0027s a fireman. He\u0027s a fisherman. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Florist. She is a Gardener. ",
+			"translated": "C\u0027est un fleuriste. C\u0027est un jardinier. ",
+			"oto": "He\u0027s a florist. He\u0027s a gardener. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Hairdresser. He is a Journalist. ",
+			"translated": "Elle est coiffeuse d\u0027un hairdresserer. C\u0027est un journaliste. ",
+			"oto": "She\u0027s a hairdresser. He\u0027s a journalist. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Judge. She is a Lawyer. ",
+			"translated": "Elle est juge. Elle est avocate. ",
+			"oto": "She is a judge. She is a lawyer. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.0,
+				1.0,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				1.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Lecturer. She is a Librarian. ",
+			"translated": "Il est chargé de cours. Elle est bibliothécaire. ",
+			"oto": "He is a lecturer. She\u0027s a librarian. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Lifeguard. He is a Mechanic. ",
+			"translated": "C\u0027est un sauveteur. C\u0027est un mécanicien. ",
+			"oto": "He\u0027s a savior. He\u0027s a mechanic. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				1.0,
+				0.0,
+				0.0
+			],
+			"otoDistrib": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Model. She is a Newsreader. ",
+			"translated": "C\u0027est un modèle. Elle est une Newsreader. ",
+			"oto": "It\u0027s a model. She is a Newsreader. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"original": "He is a Nurse. She is a Optician. ",
+			"translated": "C\u0027est une infirmière. Elle est opticienne. ",
+			"oto": "She\u0027s a nurse. She\u0027s optician. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.0,
+				1.0,
+				0.0
+			]
+		},
+		{
+			"original": "He is a Painter. She is a Pharmacist. ",
+			"translated": "C\u0027est un Peintre. Elle est pharmacienne. ",
+			"oto": "He\u0027s a Peintre. She is a pharmacist. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.5,
+				0.5,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		},
+		{
+			"original": "She is a Photographer. She is a Pilot. ",
+			"translated": "Elle est Photographe. C\u0027est un pilote. ",
+			"oto": "She\u0027s a photographer. He\u0027s a pilot. ",
+			"values": [
+				"He",
+				"She",
+				"OTHER"
+			],
+			"originalDistrib": [
+				0.0,
+				1.0,
+				0.0
+			],
+			"otoDistrib": [
+				0.5,
+				0.5,
+				0.0
+			]
+		}
+	]
+]
